@@ -19,3 +19,16 @@ color:var(--yellow);
 h1{ 
     font-weight: 80px;
 }
+
+.btn{
+
+    margin-left: 50px;
+    border: solid white;
+    margin-top: 90px;
+    padding: 50px;
+    width: 300px;
+    
+    
+
+
+}
