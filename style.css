@@ -1,0 +1,21 @@
+*{font-family: 'Shantell Sans', cursive;}
+
+:root{
+
+    --yellow:#EECE59;
+    --blueocean: #163D5C;
+    --orange:#E65239;
+
+}
+
+body{
+
+background: var(--orange);
+color:var(--yellow);
+
+
+}
+
+h1{ 
+    font-weight: 80px;
+}
